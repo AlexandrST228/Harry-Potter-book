@@ -18,6 +18,7 @@ body {
   Padding: 10px 5px 0 5px;
   Font-size: 45px;
   Font-weight: bold;
+color: black;
 }
 
 .Chapter {
@@ -35,6 +36,7 @@ body {
   Font-size: 35px;
   Font-weight: bold;
   Padding: 30px 5px 20px 5px;
+color: black;
 }
 
 .main__text {
@@ -49,6 +51,7 @@ body {
 .main__text__content {
   Padding: 40px 0 0 0;
   font-size: 25px;
+color: black;
 }
 
 .button {
